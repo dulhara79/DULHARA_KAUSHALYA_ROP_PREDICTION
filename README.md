@@ -33,5 +33,5 @@ This project centers on the `ROP_predict_model.ipynb` notebook. Below is a conci
 	- Calculated final RMSE and R2 metrics and plotted Actual vs Predicted values.
 
 8. Save model and scaler
-	- Saved the tuned model and scaler to disk as `best_rop_model_tuned.pkl` and `rop_model_scalar.pkl`.
+	- Saved the tuned model and scaler to disk as `best_rop_model_tuned.pkl` and `rop_model_scalar.pkl`. 
 
